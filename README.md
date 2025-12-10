@@ -1,6 +1,8 @@
 <div align=center> <h1> planedatabase </h1> </div>
 
-<p align=center> ${{\color{#7bafbd}\huge{\texttt{Zephyr / Airy}}}}$ </p>
+<p align=center> <a href="https://colormytree.me/2025/01KC4ZN2TTNG406706TQEWYYRY">Color my tree!!!</a></p>
+
+<p align=center> ${{\color{#7bafbd}\huge{\texttt{Zephyr}}}}$ </p>
 
 <div align=center> <img src="https://media.tenor.com/OG97yGQBIC8AAAAM/hfjone-airy-hfjone.gif" style="align center" width="350"> </div>
 
@@ -8,7 +10,7 @@
 
 <div align=center> <h2> About </h2> </div>
 
-<p align=center> Zephyr/Airy
+<p align=center> Zephyr/Airy/Griefer/Ask
 <br> He/it, minor, white. </p> 
 
 <p align=center> Current interests: HfjONE, Stranger Things, Portal 1 and 2, and more. I also play a little Dandy's World here and there. </p> 
